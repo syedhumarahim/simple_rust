@@ -1,4 +1,4 @@
-[![Rust CI/CD Pipeline](https://github.com/syedhumarahim/rust_project/actions/workflows/main.yml/badge.svg)](https://github.com/syedhumarahim/rust_project/actions/workflows/main.yml)
+[![Rust CI/CD Pipeline](https://github.com/syedhumarahim/simple_rust/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/syedhumarahim/simple_rust/actions/workflows/main.yml)
 
 # Rust CLI Binary with SQLite
 
