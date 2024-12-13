@@ -2,7 +2,15 @@
 
 # Rust CLI Binary with SQLite
 
-This is the Assignment for Data Engineering on building a rust based CLI interacting with a SQL Database.
+This is the Assignment for Data Engineering on building a rust based CLI interacting with a SQL Database. This report documents the performance comparison between the Rust and Python implementations. 
+
+# Execution Time Comparison
+
+| Metric          | Rust (ms)  | Python (ms) |
+|------------------|------------|-------------|
+| Execution Time   | 211.33 | 2021        |
+
+Rust is about 9.57 times faster. 
 
 # Overview 
 
@@ -27,6 +35,8 @@ This project demonstrates a Rust-based command-line interface (CLI) application 
 ├── README.md
 └── medical_records_DB.db
 ```
+
+
 
 ## 2. **CRUD Operations**
 We demonstrate the following CRUD operations:
